@@ -37,7 +37,7 @@ A backend application designed to simplify restaurant order management.
 - Integrated **PostgreSQL**, **Swagger**, and **Docker**
 
 🔗 Repository:  
-https://github.com/Esgerkhanova/Online-Food-Order-System
+https://github.com/AybenizEsgerkhanova/Online-Food-Order-System
 
 ---
 
