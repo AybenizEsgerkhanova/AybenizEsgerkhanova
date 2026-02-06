@@ -4,20 +4,6 @@
   <b>Back-End Developer</b> • Java & Spring Framework
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aybeniz-esgerxanova">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aybenizegerkhanova@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://gitlab.com/Esgerkhanova">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/DnAbDsKm">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
-  </a>
-</p>
 
 
 ---
@@ -34,9 +20,10 @@
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,html,postgresql,mysql,docker,git,github,gitlab,postman" />
 </p>
+
 
 ---
 
@@ -87,6 +74,7 @@ https://github.com/AybenizEsgerkhanova/holbertonschool-java
 - REST API best practices  
 - Database design and SQL optimization  
 - Basics of Artificial Intelligence and Machine Learning
+
  
 
 ---
@@ -101,20 +89,18 @@ https://github.com/AybenizEsgerkhanova/holbertonschool-java
 
 ## 📫 Connect with Me
 
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aybeniz-esgerxanova">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:aybenizegerkhanova@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://gitlab.com/Esgerkhanova">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white"/>
   </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.gg/DnAbDsKm">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
   </a>
 </p>
