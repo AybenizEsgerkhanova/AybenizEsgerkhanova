@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,html,postgresql,mysql,docker,git,github,gitlab,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,postgresql,mysql,docker,git,github,gitlab,postman,swagger" />
 </p>
 
 
