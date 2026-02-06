@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white"/>
   </a>
   <a href="https://discord.gg/DnAbDsKm">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Join%20Server-5865F2?logo=discord&logoColor=white"/>
   </a>
 </p>
 
