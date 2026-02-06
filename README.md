@@ -1,8 +1,24 @@
 <h1 align="center">Hi, I'm Aybeniz 👋</h1>
 
 <p align="center">
-  Back-End Developer • Java & Spring Framework
+  <b>Back-End Developer</b> • Java & Spring Framework
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aybeniz-esgerxanova">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aybenizegerkhanova@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://gitlab.com/Esgerkhanova">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/DnAbDsKm">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
