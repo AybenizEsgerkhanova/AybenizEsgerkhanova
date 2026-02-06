@@ -70,6 +70,8 @@ https://github.com/AybenizEsgerkhanova/holbertonschool-java
 - Advanced Spring Boot concepts  
 - REST API best practices  
 - Database design and SQL optimization  
+- Basics of Artificial Intelligence and Machine Learning
+ 
 
 ---
 
